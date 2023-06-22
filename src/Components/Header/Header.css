@@ -1,0 +1,20 @@
+.header-container {
+    background-image: url('../../assets/images/header-bg.png');
+    height: 110px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.dropdown-menu {
+    background-color: #f7f7f7 !important;
+
+}
+
+.dropdown-menu a:hover {
+    color: #dc8cdb
+}
+
+.dropdown-toggle {
+    color: white !important;
+}
