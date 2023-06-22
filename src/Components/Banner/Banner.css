@@ -1,0 +1,22 @@
+.banner-container {
+    background-image: url('../../assets/images/banner-left-dec.png'), url('../../assets/images/banner-right-dec.png');
+    background-repeat: no-repeat, no-repeat;
+    background-position: left bottom, right top;
+}
+
+.banner-left h2 {
+    font-size: 18px;
+    color: #777777;
+}
+
+.banner-left h1 span {
+    color: #dc8cdb;
+}
+
+.banner-left button {
+    background: linear-gradient(-145deg, rgba(219, 138, 222, 1) 0%, rgba(246, 191, 159, 1) 100%);
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: 500;
+}
